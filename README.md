@@ -1,3 +1,8 @@
+
+ body {
+      background-color: black;
+      color: white;
+    }
 <h1 align="center">Hi 👋, I'm Deepak Ahirwar</h1>
 <h3 align="center">A passionate Data Analyst Enthusiast</h3>
 
